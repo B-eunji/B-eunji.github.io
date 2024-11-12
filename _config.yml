@@ -326,8 +326,4 @@ defaults:
       show_date: true
 date_format: "%Y-%m-%d"
 
-# Header Pages
-header_pages:
-  - employment.md
-  - coding_test.md
-  - side_projects.md
+
