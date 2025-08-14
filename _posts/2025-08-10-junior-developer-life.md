@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "졸업을 앞둔 주니어 개발자의 고민"
 excerpt: "AI 시대, 평범한 내가 개발자로 살아남을 수 있을까?"
 permalink: /junior-developer-life/
