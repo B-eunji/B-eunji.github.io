@@ -1,7 +1,9 @@
 ---
+layout: single
+classes: wide
 title: "MVP(Minimum Viable Product)란 무엇일까?"
 date: 2025-09-29
-categories: [Project Insight, Concept]
+#categories: [Project Insight, Concept]
 tags: [MVP, Project, Development, Experience]
 description: "MVP 개념 정리와 졸업 작품 경험을 통해 배운 점"
 ---
